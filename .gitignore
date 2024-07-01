@@ -65,3 +65,6 @@ data
 .pytest_cache
 
 src/sam/weights
+
+# Ignore all subfolders inside folder
+test-data/*/
